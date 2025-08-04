@@ -1,4 +1,4 @@
-# Machine-Learning-Proyects
+# Machine-Learning-Projects
 Repositorio destinado al desarrollo de proyectos vinculados a las áreas de Inteligencia Artificial/ Aprendizaje Automático/ Aprendizaje Profundo / Redes Neuronales
 
 # Proyecto-1
